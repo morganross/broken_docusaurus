@@ -1,3 +1,21 @@
+docusaurus should remove the "auto generate" language from its documentation. 
+
+it requires manually editing config files before and after generation.
+
+documentation is lacking or lieing begging page one quick start
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <h1 align="center">
     Docusaurus
